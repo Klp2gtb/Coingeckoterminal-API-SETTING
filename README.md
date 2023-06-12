@@ -1,1 +1,0 @@
-# Coingeckoterminal-API-SETTING
